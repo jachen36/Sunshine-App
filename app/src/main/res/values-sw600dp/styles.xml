@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="ForecastListStyle">
+        <item name="android:choiceMode">singleChoice</item>
+    </style>
+
+    <style name="text_large">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="text_small">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+</resources>
